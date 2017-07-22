@@ -10,3 +10,15 @@ E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\E
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\obj\Debug\EF.Data.csprojResolveAssemblyReference.cache
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\obj\Debug\EF.Data.dll
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\obj\Debug\EF.Data.pdb
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\EF.Data.dll.config
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\EF.Data.dll
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\EF.Data.pdb
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\EF.Core.dll
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\EntityFramework.dll
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\EF.Core.pdb
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\EntityFramework.xml
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\obj\Debug\EF.Data.csprojResolveAssemblyReference.cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\obj\Debug\EF.Data.dll
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\obj\Debug\EF.Data.pdb
