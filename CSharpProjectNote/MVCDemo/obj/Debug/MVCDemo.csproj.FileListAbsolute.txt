@@ -45,3 +45,5 @@ D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MVCDemo\bin\PagedList.dll
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MVCDemo\bin\PagedList.Mvc.dll
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MVCDemo\bin\PagedList.xml
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MVCDemo\bin\PagedList.Mvc.xml
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MVCDemo\obj\Debug\MVCDemo.Migrations.InitialCreate.resources
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MVCDemo\obj\Debug\MVCDemo.csproj.GenerateResource.Cache

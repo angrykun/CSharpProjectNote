@@ -6,6 +6,7 @@ using System.Web.Mvc;
 using MVCDemo.Models;
 using MVCDemo.DAL;
 using PagedList;
+using System.Data.Entity;
 
 namespace MVCDemo.Controllers
 {
@@ -28,8 +29,7 @@ namespace MVCDemo.Controllers
             }
             ViewBag.CurrentFilter = searchString;
 
-            var users = from u in db.SysUers
-                        select u;
+            var users = db.SysUers.Include(s => s.SysDepartment);
             if (!string.IsNullOrEmpty(searchString))
             {
                 users = users.Where(u => u.UserName.Contains(searchString));
@@ -102,9 +102,15 @@ namespace MVCDemo.Controllers
         [HttpPost]
         public ActionResult Create(SysUser sysUser)
         {
-            db.SysUers.Add(sysUser);
-            db.SaveChanges();
-            return RedirectToAction("Index");
+            if (ModelState.IsValid)
+            {
+                db.SysUers.Add(sysUser);
+                db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            ModelState.AddModelError("UserName", "userName Error");
+            return View();
+
         }
         #endregion
 
