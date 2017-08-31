@@ -1,0 +1,5 @@
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Prototype\bin\Debug\Prototype.exe.config
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Prototype\bin\Debug\Prototype.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Prototype\bin\Debug\Prototype.pdb
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Prototype\obj\Debug\Prototype.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Prototype\obj\Debug\Prototype.pdb
