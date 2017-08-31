@@ -29,7 +29,7 @@ namespace Prototype
         static void Main(string[] args)
         {
             //PrototypeMethodOne();
-            PrototypeMethodThree();
+            PrototypeMethodFour();
 
             Console.Read();
         }
@@ -104,6 +104,26 @@ namespace Prototype
             Console.WriteLine("附件是否相同？" + (long_new.Attachment == _previous.Attachment));
         }
 
+        static void PrototypeMethodFour()
+        {
+            //获取原型管理器对象
+            PrototypeManager pm = PrototypeManager.GetPrototypeManager();
+            OfficialDocument doc1, doc2, doc3,doc4;
 
+            doc1 = pm.GetOfficialDocument("far");
+            doc1.Display();
+
+            doc2 = pm.GetOfficialDocument("far");
+            doc2.Display();
+
+            Console.WriteLine(doc1==doc2);
+
+            doc3 = pm.GetOfficialDocument("srs");
+            doc3.Display();
+            doc4 = pm.GetOfficialDocument("srs");
+            doc4.Display();
+
+            Console.WriteLine(doc3 == doc4);
+        }
     }
 }

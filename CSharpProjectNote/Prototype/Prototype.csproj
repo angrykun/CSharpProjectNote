@@ -47,6 +47,10 @@
     <Compile Include="LearningHard\ConcreteProtype.cs" />
     <Compile Include="LearningHard\MonkeyKingPrototype.cs" />
     <Compile Include="LiuWei\Attachment.cs" />
+    <Compile Include="LiuWei\FAR.cs" />
+    <Compile Include="LiuWei\OfficialDocument.cs" />
+    <Compile Include="LiuWei\PrototypeManager.cs" />
+    <Compile Include="LiuWei\SRS.cs" />
     <Compile Include="LiuWei\WeekLog.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
