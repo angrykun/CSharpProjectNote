@@ -24,7 +24,8 @@ namespace DapperDemo
             Stopwatch watch = new Stopwatch();
             watch.Start();
 
-            var success = new DapperDemo().DeleteColumnCatAndColumn(new ED_Data { TableName = "123A2" });
+            //var success = new DapperDemo().DeleteColumnCatAndColumn(new ED_Data { TableName = "123A2" });
+            new DapperCRUD().OnToMany();
             watch.Stop();
             Console.WriteLine($"结果： ，花费时间：{watch.ElapsedMilliseconds}");
             Console.Read();
