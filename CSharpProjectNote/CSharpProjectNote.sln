@@ -33,6 +33,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dapper", "Dapper", "{9A1D93
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperDemo", "DapperDemo\DapperDemo.csproj", "{351F7DCB-FF2E-4AC7-AAD3-9C06590C79EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z.Dapper.Examples", "D:\Software\dapper-tutorial-1.0.4\src\Z.Dapper.Examples\Z.Dapper.Examples.csproj", "{335C36F5-275F-479F-9816-4738177E504A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{351F7DCB-FF2E-4AC7-AAD3-9C06590C79EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{351F7DCB-FF2E-4AC7-AAD3-9C06590C79EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{351F7DCB-FF2E-4AC7-AAD3-9C06590C79EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{335C36F5-275F-479F-9816-4738177E504A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335C36F5-275F-479F-9816-4738177E504A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335C36F5-275F-479F-9816-4738177E504A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335C36F5-275F-479F-9816-4738177E504A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -90,5 +96,6 @@ Global
 		{B596FEDD-B557-4402-97DD-E1C350D6FD0B} = {C2BF224B-43D3-4A62-8BA8-9D5575A500A2}
 		{B89E6E17-A53B-424D-A6AB-15610FD37704} = {B596FEDD-B557-4402-97DD-E1C350D6FD0B}
 		{351F7DCB-FF2E-4AC7-AAD3-9C06590C79EB} = {9A1D9323-C943-4FC1-836E-7390AC20645E}
+		{335C36F5-275F-479F-9816-4738177E504A} = {9A1D9323-C943-4FC1-836E-7390AC20645E}
 	EndGlobalSection
 EndGlobal
