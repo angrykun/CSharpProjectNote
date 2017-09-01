@@ -33,7 +33,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dapper", "Dapper", "{9A1D93
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperDemo", "DapperDemo\DapperDemo.csproj", "{351F7DCB-FF2E-4AC7-AAD3-9C06590C79EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z.Dapper.Examples", "D:\Software\dapper-tutorial-1.0.4\src\Z.Dapper.Examples\Z.Dapper.Examples.csproj", "{335C36F5-275F-479F-9816-4738177E504A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z.Dapper.Examples", "Dapper.Examples\Z.Dapper.Examples.csproj", "{335C36F5-275F-479F-9816-4738177E504A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
