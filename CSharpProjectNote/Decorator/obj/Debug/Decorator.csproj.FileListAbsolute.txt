@@ -1,0 +1,6 @@
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Decorator\bin\Debug\Decorator.exe.config
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Decorator\bin\Debug\Decorator.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Decorator\bin\Debug\Decorator.pdb
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Decorator\obj\Debug\Decorator.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Decorator\obj\Debug\Decorator.pdb
