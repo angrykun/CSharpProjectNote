@@ -1,0 +1,6 @@
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Builder\bin\Debug\Builder.exe.config
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Builder\bin\Debug\Builder.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Builder\bin\Debug\Builder.pdb
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Builder\obj\Debug\Builder.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Builder\obj\Debug\Builder.pdb
