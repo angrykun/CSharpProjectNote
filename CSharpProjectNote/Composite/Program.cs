@@ -65,15 +65,13 @@ namespace Composite
             file.AddFile(new VideoFile("大话西游之月光宝盒.rmvb"));
             file.AddFile(new VideoFile("亮剑.rmvb"));
             file.AddFile(new ImageFile("月亮.jpg"));
-            file.KillVirus();
-            Console.WriteLine("----------------------------------");
-            Console.WriteLine();
 
             AbstractFile file2 = new FileFolder("文件夹2");
             file2.AddFile(new TextFile("春风十里.txt"));
             file2.AddFile(new ImageFile("冰红茶.jpg"));
             file2.AddFile(new VideoFile("战狼.rmvb"));
-            file2.KillVirus();
+            file.AddFile(file2);
+            file.KillVirus();
             Console.WriteLine("----------------------------------");
             Console.WriteLine();
 
