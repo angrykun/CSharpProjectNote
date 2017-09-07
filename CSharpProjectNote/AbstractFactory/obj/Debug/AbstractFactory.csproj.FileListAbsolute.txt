@@ -1,0 +1,5 @@
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\AbstractFactory\bin\Debug\AbstractFactory.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\AbstractFactory\bin\Debug\AbstractFactory.pdb
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\AbstractFactory\obj\Debug\AbstractFactory.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\AbstractFactory\obj\Debug\AbstractFactory.pdb
