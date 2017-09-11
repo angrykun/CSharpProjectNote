@@ -1,0 +1,6 @@
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Flyweight\bin\Debug\Flyweight.exe.config
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Flyweight\bin\Debug\Flyweight.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Flyweight\bin\Debug\Flyweight.pdb
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Flyweight\obj\Debug\Flyweight.csprojResolveAssemblyReference.cache
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Flyweight\obj\Debug\Flyweight.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Flyweight\obj\Debug\Flyweight.pdb

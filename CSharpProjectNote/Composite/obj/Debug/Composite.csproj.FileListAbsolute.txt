@@ -1,0 +1,6 @@
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Composite\bin\Debug\Composite.exe.config
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Composite\bin\Debug\Composite.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Composite\bin\Debug\Composite.pdb
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Composite\obj\Debug\Composite.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Composite\obj\Debug\Composite.pdb

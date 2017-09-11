@@ -1,0 +1,10 @@
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Core\bin\Debug\EF.Core.dll
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Core\bin\Debug\EF.Core.pdb
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Core\obj\Debug\EF.Core.csprojResolveAssemblyReference.cache
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Core\obj\Debug\EF.Core.dll
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Core\obj\Debug\EF.Core.pdb
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Core\bin\Debug\EF.Core.dll
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Core\bin\Debug\EF.Core.pdb
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Core\obj\Debug\EF.Core.csprojResolveAssemblyReference.cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Core\obj\Debug\EF.Core.dll
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Core\obj\Debug\EF.Core.pdb

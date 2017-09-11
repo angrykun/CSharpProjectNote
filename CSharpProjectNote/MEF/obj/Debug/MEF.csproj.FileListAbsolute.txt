@@ -1,0 +1,12 @@
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\bin\Debug\MEF.exe.config
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\bin\Debug\MEF.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\bin\Debug\MEF.pdb
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\obj\Debug\MEF.csprojResolveAssemblyReference.cache
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\obj\Debug\MEF.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\obj\Debug\MEF.pdb
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\bin\Debug\MEF.exe.config
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\obj\Debug\MEF.exe
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\obj\Debug\MEF.pdb
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\bin\Debug\MEF.exe
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\bin\Debug\MEF.pdb
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\obj\Debug\MEF.csprojResolveAssemblyReference.cache

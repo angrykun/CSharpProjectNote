@@ -1,0 +1,7 @@
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EmitMapperDemo\bin\Debug\EmitMapperDemo.exe.config
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EmitMapperDemo\bin\Debug\EmitMapperDemo.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EmitMapperDemo\bin\Debug\EmitMapperDemo.pdb
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EmitMapperDemo\bin\Debug\EmitMapper.dll
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EmitMapperDemo\obj\Debug\EmitMapperDemo.csprojResolveAssemblyReference.cache
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EmitMapperDemo\obj\Debug\EmitMapperDemo.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EmitMapperDemo\obj\Debug\EmitMapperDemo.pdb

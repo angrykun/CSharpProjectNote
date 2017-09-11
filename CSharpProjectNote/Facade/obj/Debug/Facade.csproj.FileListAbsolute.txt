@@ -1,0 +1,6 @@
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Facade\bin\Debug\Facade.exe.config
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Facade\bin\Debug\Facade.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Facade\bin\Debug\Facade.pdb
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Facade\obj\Debug\Facade.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Facade\obj\Debug\Facade.pdb
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
