@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Decorator.LiuWei;
+using Decorator.LearningHard;
 
 namespace Decorator
 {
@@ -12,6 +13,7 @@ namespace Decorator
         static void Main(string[] args)
         {
             MethodOne();
+            MethodTwo();
         }
         static void MethodOne()
         {
@@ -32,6 +34,22 @@ namespace Decorator
             decorator2.Operation();
             Console.Read();
 
+        }
+
+        static void MethodTwo()
+        {
+            //买了苹果手机
+            Phone phone = new ApplePhone();
+
+            //给手机贴膜
+            DecoratorPhone sticker = new Sticker(phone);
+            sticker.Print();
+
+            //给手机增加挂件
+            DecoratorPhone accessories = new Accessories(phone);
+            accessories.Print();
+
+            Console.ReadKey();
         }
     }
 }

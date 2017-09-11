@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LearningHard\Accessories.cs" />
+    <Compile Include="LearningHard\ApplePhone.cs" />
+    <Compile Include="LearningHard\DecoratorPhone.cs" />
+    <Compile Include="LearningHard\Phone.cs" />
+    <Compile Include="LearningHard\Sticker.cs" />
     <Compile Include="LiuWei\Component.cs" />
     <Compile Include="LiuWei\ConcreteComponent.cs" />
     <Compile Include="LiuWei\ConcreteDecoratorA.cs" />
