@@ -43,7 +43,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EmitMapper", "EmitMapper", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmitMapperDemo", "EmitMapperDemo\EmitMapperDemo.csproj", "{5EE07E1A-411D-4333-BB97-AAA22461BFD0}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-AbstractFactory（抽象工厂）", "04-AbstractFactory（抽象工厂）", "{8C6466D1-4705-4BA5-9968-D960B1683C39}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-AbstractFactory（抽象工厂）", "03-AbstractFactory（抽象工厂）", "{8C6466D1-4705-4BA5-9968-D960B1683C39}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{E459A9E5-3BE7-4F02-B048-3A1DEF312FE5}"
 EndProject
@@ -53,7 +53,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "创建型设计模式", "�
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "行为型设计模式", "行为型设计模式", "{61168160-C746-4C6C-9F2D-DCAD02E3005B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06-Builder（建造者模式）", "06-Builder（建造者模式）", "{D5E4F057-504E-4949-9A83-6D8528D0B9A2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-Builder（建造者模式）", "04-Builder（建造者模式）", "{D5E4F057-504E-4949-9A83-6D8528D0B9A2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{16BCFA10-5530-46F1-9F03-FEFE8993153F}"
 EndProject
@@ -76,6 +76,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12-Proxy（代理模式）", "12-Proxy（代理模式）", "{7C2DD3CA-CDAB-4AFE-8A69-D0DA09C28964}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{C2236C2E-56F6-42F5-A2BE-A5A217C9726D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06-Adapter（适配器）", "06-Adapter（适配器）", "{2B2F76B1-2CA6-4FD4-9029-9A9A2DD87692}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,5 +197,6 @@ Global
 		{BE313CA8-EA8D-42E0-9970-0B0CF2548B82} = {D5BAC15D-CA8E-487E-B894-A98CD5D9FBD6}
 		{7C2DD3CA-CDAB-4AFE-8A69-D0DA09C28964} = {2331BA76-D7B8-47AA-89B9-3B99E3F0E395}
 		{C2236C2E-56F6-42F5-A2BE-A5A217C9726D} = {7C2DD3CA-CDAB-4AFE-8A69-D0DA09C28964}
+		{2B2F76B1-2CA6-4FD4-9029-9A9A2DD87692} = {2331BA76-D7B8-47AA-89B9-3B99E3F0E395}
 	EndGlobalSection
 EndGlobal
