@@ -1,0 +1,6 @@
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe.config
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.pdb
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.csprojResolveAssemblyReference.cache
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.pdb
