@@ -1,0 +1,6 @@
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\bin\Debug\Command.exe.config
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\bin\Debug\Command.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\bin\Debug\Command.pdb
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\obj\Debug\Command.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\obj\Debug\Command.pdb
