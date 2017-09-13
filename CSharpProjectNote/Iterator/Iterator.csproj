@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IteratorDemo\Friend.cs" />
+    <Compile Include="IteratorDemo\FriendIterator.cs" />
+    <Compile Include="IteratorDemo\Friends.cs" />
+    <Compile Include="LearningHard\ConcreteIterator.cs" />
+    <Compile Include="LearningHard\ConcreteList.cs" />
     <Compile Include="LearningHard\IListCollection.cs" />
     <Compile Include="LearningHard\Iterator.cs" />
     <Compile Include="Program.cs" />

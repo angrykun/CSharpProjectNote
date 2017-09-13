@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Iterator.LearningHard;
+using Iterator.IteratorDemo;
 
 namespace Iterator
 {
@@ -15,6 +17,31 @@ namespace Iterator
     {
         static void Main(string[] args)
         {
+
+            MethodOne(); MethodTwo();
+        }
+        static void MethodOne()
+        {
+            Iterator.LearningHard.Iterator iterator;
+            IListCollection list = new ConcreteList();
+            iterator = list.GetIterator();
+            while (iterator.MoveNext())
+            {
+                int i = (int)iterator.GetCurrent();
+                Console.WriteLine(i.ToString());
+                iterator.Next();
+            }
+            Console.ReadKey();
+        }
+
+        static void MethodTwo()
+        {
+            Friends friends = new Friends();
+            foreach (Friend f in friends)
+            {
+                Console.WriteLine(f.Name);
+            }
+            Console.ReadKey();
         }
     }
 }

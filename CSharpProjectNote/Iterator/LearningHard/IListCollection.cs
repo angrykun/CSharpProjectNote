@@ -11,5 +11,6 @@ namespace Iterator.LearningHard
     /// </summary>
     public interface IListCollection
     {
+        Iterator GetIterator();
     }
 }
