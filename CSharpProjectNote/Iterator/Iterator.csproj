@@ -46,6 +46,7 @@
     <Compile Include="IteratorDemo\Friend.cs" />
     <Compile Include="IteratorDemo\FriendIterator.cs" />
     <Compile Include="IteratorDemo\Friends.cs" />
+    <Compile Include="IteratorDemo\FriendsUpgrade.cs" />
     <Compile Include="LearningHard\ConcreteIterator.cs" />
     <Compile Include="LearningHard\ConcreteList.cs" />
     <Compile Include="LearningHard\IListCollection.cs" />
