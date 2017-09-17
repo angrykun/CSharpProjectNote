@@ -7,3 +7,12 @@ E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\DapperDemo\bin\Debu
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\DapperDemo\obj\Debug\DapperDemo.csprojResolveAssemblyReference.cache
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\DapperDemo\obj\Debug\DapperDemo.exe
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\DapperDemo\obj\Debug\DapperDemo.pdb
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\DapperDemo\bin\Debug\DapperDemo.exe.config
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\DapperDemo\bin\Debug\DapperDemo.exe
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\DapperDemo\bin\Debug\DapperDemo.pdb
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\DapperDemo\bin\Debug\Dapper.dll
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\DapperDemo\bin\Debug\MySql.Data.dll
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\DapperDemo\bin\Debug\Dapper.xml
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\DapperDemo\obj\Debug\DapperDemo.csprojResolveAssemblyReference.cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\DapperDemo\obj\Debug\DapperDemo.exe
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\DapperDemo\obj\Debug\DapperDemo.pdb

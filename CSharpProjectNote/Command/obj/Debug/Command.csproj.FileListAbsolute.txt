@@ -4,3 +4,9 @@ E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\bin\Debug\C
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\obj\Debug\Command.exe
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\obj\Debug\Command.pdb
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\bin\Debug\Command.exe.config
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\bin\Debug\Command.exe
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\bin\Debug\Command.pdb
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\obj\Debug\Command.exe
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\obj\Debug\Command.pdb

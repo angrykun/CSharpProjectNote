@@ -24,3 +24,5 @@ D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\obj\Debug\EF.Data.dll
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\obj\Debug\EF.Data.pdb
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\zh-Hans\EntityFramework.resources.dll
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
