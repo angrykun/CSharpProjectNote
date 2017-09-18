@@ -4,3 +4,9 @@ E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Iterator\bin\Debug\
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Iterator\obj\Debug\Iterator.exe
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Iterator\obj\Debug\Iterator.pdb
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Iterator\bin\Debug\Iterator.exe.config
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Iterator\bin\Debug\Iterator.exe
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Iterator\bin\Debug\Iterator.pdb
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Iterator\obj\Debug\Iterator.exe
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Iterator\obj\Debug\Iterator.pdb
