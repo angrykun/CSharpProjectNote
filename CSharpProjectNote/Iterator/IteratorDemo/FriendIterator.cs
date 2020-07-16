@@ -7,16 +7,21 @@ using System.Threading.Tasks;
 
 namespace Iterator.IteratorDemo
 {
+    /// <summary>
+    /// 具体迭代器类
+    /// </summary>
     public class FriendIterator : IEnumerator
     {
         private readonly Friends friends;
         private int index;
         private Friend current;
+
         internal FriendIterator(Friends friends)
         {
             this.friends = friends;
             index = 0;
         }
+
         public object Current
         {
             get
@@ -24,6 +29,7 @@ namespace Iterator.IteratorDemo
                 return current;
             }
         }
+
         public bool MoveNext()
         {
             if (index + 1 > friends.Count)
@@ -36,6 +42,9 @@ namespace Iterator.IteratorDemo
             }
         }
 
-        public void Reset() { index = 0; }
+        public void Reset()
+        {
+            index = 0;
+        }
     }
 }
