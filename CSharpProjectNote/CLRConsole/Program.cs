@@ -7,7 +7,7 @@ namespace CLRConsole
         static void Main(string[] args)
         {
             Console.WriteLine("begin");
-            StringDemo.Show();
+            //StringDemo.Show();
             StringDemo.Show2();
             StringDemo.Show3();
             Console.Read();

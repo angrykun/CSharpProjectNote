@@ -135,6 +135,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLRConsole", "CLRConsole\CL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionConsole", "ExpressionConsole\ExpressionConsole.csproj", "{3B9DC5F9-3986-4150-9DA6-28CB930D8FD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrmConsole", "OrmConsole\OrmConsole.csproj", "{D7B02816-2DB6-45F7-A08E-9B9D2331F4E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -277,6 +279,10 @@ Global
 		{3B9DC5F9-3986-4150-9DA6-28CB930D8FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B9DC5F9-3986-4150-9DA6-28CB930D8FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B9DC5F9-3986-4150-9DA6-28CB930D8FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7B02816-2DB6-45F7-A08E-9B9D2331F4E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B02816-2DB6-45F7-A08E-9B9D2331F4E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B02816-2DB6-45F7-A08E-9B9D2331F4E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B02816-2DB6-45F7-A08E-9B9D2331F4E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -338,6 +344,7 @@ Global
 		{6EC92699-BCF7-4953-8119-65B5524A7719} = {19EF5082-669E-4722-AC18-A0C0F8242A26}
 		{D63F2AD9-9924-4A70-A630-22B50FA25E5C} = {7B137399-7948-43A9-9610-326B259965D5}
 		{3B9DC5F9-3986-4150-9DA6-28CB930D8FD9} = {7B137399-7948-43A9-9610-326B259965D5}
+		{D7B02816-2DB6-45F7-A08E-9B9D2331F4E9} = {7B137399-7948-43A9-9610-326B259965D5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5AF2A474-D065-4909-A76F-28DC8161E9B7}
