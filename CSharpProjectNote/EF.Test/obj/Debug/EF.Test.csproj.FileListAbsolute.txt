@@ -28,3 +28,8 @@ D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Test\obj\Debug\EF.Test.dll
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Test\obj\Debug\EF.Test.pdb
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Test\bin\Debug\zh-Hans\EntityFramework.resources.dll
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Test\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+<<<<<<< HEAD
+=======
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Test\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Test\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+>>>>>>> branch

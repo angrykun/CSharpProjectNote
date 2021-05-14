@@ -4,3 +4,12 @@ E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\ConsoleProject\obj\
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\ConsoleProject\bin\Debug\ConsoleProject.exe
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\ConsoleProject\bin\Debug\ConsoleProject.pdb
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\ConsoleProject\obj\Debug\ConsoleProject.csprojResolveAssemblyReference.cache
+<<<<<<< HEAD
+=======
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\ConsoleProject\bin\Debug\ConsoleProject.exe.config
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\ConsoleProject\bin\Debug\ConsoleProject.exe
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\ConsoleProject\bin\Debug\ConsoleProject.pdb
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\ConsoleProject\obj\Debug\ConsoleProject.csprojResolveAssemblyReference.cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\ConsoleProject\obj\Debug\ConsoleProject.exe
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\ConsoleProject\obj\Debug\ConsoleProject.pdb
+>>>>>>> branch

@@ -1,0 +1,6 @@
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Mediator\bin\Debug\Mediator.exe.config
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Mediator\bin\Debug\Mediator.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Mediator\bin\Debug\Mediator.pdb
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Mediator\obj\Debug\Mediator.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Mediator\obj\Debug\Mediator.pdb
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache

@@ -4,3 +4,12 @@ E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Prototype\bin\Debug
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Prototype\obj\Debug\Prototype.exe
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Prototype\obj\Debug\Prototype.pdb
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+<<<<<<< HEAD
+=======
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Prototype\bin\Debug\Prototype.exe.config
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Prototype\bin\Debug\Prototype.exe
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Prototype\bin\Debug\Prototype.pdb
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Prototype\obj\Debug\Prototype.exe
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Prototype\obj\Debug\Prototype.pdb
+>>>>>>> branch

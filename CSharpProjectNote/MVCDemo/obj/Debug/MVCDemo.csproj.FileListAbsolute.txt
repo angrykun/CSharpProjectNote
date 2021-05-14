@@ -98,3 +98,8 @@ E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\MVCDemo\obj\Debug\M
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\MVCDemo\obj\Debug\MVCDemo.csproj.GenerateResource.Cache
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\MVCDemo\obj\Debug\MVCDemo.dll
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\MVCDemo\obj\Debug\MVCDemo.pdb
+<<<<<<< HEAD
+=======
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MVCDemo\bin\zh-Hans\EntityFramework.resources.dll
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MVCDemo\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+>>>>>>> branch

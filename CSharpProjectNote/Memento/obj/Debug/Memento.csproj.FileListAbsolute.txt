@@ -1,0 +1,6 @@
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Memento\bin\Debug\Memento.exe.config
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Memento\bin\Debug\Memento.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Memento\bin\Debug\Memento.pdb
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Memento\obj\Debug\Memento.csprojResolveAssemblyReference.cache
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Memento\obj\Debug\Memento.exe
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Memento\obj\Debug\Memento.pdb

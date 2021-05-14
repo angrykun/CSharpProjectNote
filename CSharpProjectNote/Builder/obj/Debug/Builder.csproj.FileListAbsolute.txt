@@ -4,3 +4,12 @@ E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Builder\bin\Debug\B
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Builder\obj\Debug\Builder.exe
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Builder\obj\Debug\Builder.pdb
+<<<<<<< HEAD
+=======
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Builder\bin\Debug\Builder.exe.config
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Builder\bin\Debug\Builder.exe
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Builder\bin\Debug\Builder.pdb
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Builder\obj\Debug\Builder.exe
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Builder\obj\Debug\Builder.pdb
+>>>>>>> branch
