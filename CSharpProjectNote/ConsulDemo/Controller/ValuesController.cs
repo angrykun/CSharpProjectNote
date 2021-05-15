@@ -37,7 +37,7 @@ namespace ConsulDemo.Controller
         [HttpGet]
         public IActionResult Get()
         {
-            return Content(configuration.GetSection("AllowedHosts").Value);
+            return Content(configuration.GetSection("ConnectionStrings:DefaultSetting").Value);
         }
     }
 }

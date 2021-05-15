@@ -27,6 +27,6 @@ namespace ConsulDemo.Controller
         /// </summary>
         /// <returns></returns>
         [HttpGet]
-        public IActionResult Get() => Content("test"+DateTime.Now);
+        public IActionResult Get() => Ok();
     }
 }
