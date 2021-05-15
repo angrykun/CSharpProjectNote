@@ -18,7 +18,9 @@ using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http;
 using System.Threading.Tasks;
+using Consul;
 using Microsoft.Extensions.Configuration;
 
 namespace ConsulDemo.Controller
@@ -38,6 +40,31 @@ namespace ConsulDemo.Controller
         public IActionResult Get()
         {
             return Content(configuration.GetSection("ConnectionStrings:DefaultSetting").Value);
+        }
+
+        [HttpGet("/consul")]
+        public async Task<string> RequestConsul()
+        {
+            var consulAddress = configuration.GetSection("ConsulConfig:ConsulAddress").Value;
+            using (var consulClient = new ConsulClient(x => x.Address = new Uri(consulAddress)))
+            {
+                //
+                var services = await consulClient.Catalog.Service("ConsulDemo");
+                if (services.Response != null && services.Response.Any())
+                {
+                    var random = new Random();
+                    int index = random.Next(services.Response.Length);
+                    var service = services.Response.ElementAt(index);
+                    using (var client = new HttpClient())
+                    {
+                        var response =
+                            await client.GetStringAsync($"http://{service.ServiceAddress}:{service.ServicePort}/api/values");
+                        return $"Time:{DateTime.Now:yyyy-MM-dd HH:mm:ss}From Request Consul :{response}";
+                    }
+                }
+            }
+
+            return await Task.FromResult(string.Empty);
         }
     }
 }

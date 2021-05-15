@@ -28,7 +28,7 @@ namespace ConsulDemo.Extension
     public static class ConsulExtensions
     {
         /// <summary>
-        /// consul
+        /// 服务注册 consul
         /// </summary>
         /// <param name="app"></param>
         /// <returns></returns>
