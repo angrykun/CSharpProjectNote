@@ -131,13 +131,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Util.Domains.Tests", "Util.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Architecture", "Architecture", "{7B137399-7948-43A9-9610-326B259965D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLRConsole", "CLRConsole\CLRConsole.csproj", "{D63F2AD9-9924-4A70-A630-22B50FA25E5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CLRConsole", "CLRConsole\CLRConsole.csproj", "{D63F2AD9-9924-4A70-A630-22B50FA25E5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionConsole", "ExpressionConsole\ExpressionConsole.csproj", "{3B9DC5F9-3986-4150-9DA6-28CB930D8FD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionConsole", "ExpressionConsole\ExpressionConsole.csproj", "{3B9DC5F9-3986-4150-9DA6-28CB930D8FD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrmConsole", "OrmConsole\OrmConsole.csproj", "{D7B02816-2DB6-45F7-A08E-9B9D2331F4E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrmConsole", "OrmConsole\OrmConsole.csproj", "{D7B02816-2DB6-45F7-A08E-9B9D2331F4E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreMasterSlave", "EfCoreMasterSlave\EfCoreMasterSlave.csproj", "{135322D0-0240-496C-B745-D150DA122B87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCoreMasterSlave", "EfCoreMasterSlave\EfCoreMasterSlave.csproj", "{135322D0-0240-496C-B745-D150DA122B87}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CoreConsul", "CoreConsul", "{87A7AE31-5FF5-40F4-8556-2A0E86A234A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsulDemo", "ConsulDemo\ConsulDemo.csproj", "{0FD41DF7-913A-4F5E-807C-54183DA239C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -289,6 +293,10 @@ Global
 		{135322D0-0240-496C-B745-D150DA122B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{135322D0-0240-496C-B745-D150DA122B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{135322D0-0240-496C-B745-D150DA122B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FD41DF7-913A-4F5E-807C-54183DA239C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD41DF7-913A-4F5E-807C-54183DA239C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD41DF7-913A-4F5E-807C-54183DA239C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD41DF7-913A-4F5E-807C-54183DA239C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -352,6 +360,7 @@ Global
 		{3B9DC5F9-3986-4150-9DA6-28CB930D8FD9} = {7B137399-7948-43A9-9610-326B259965D5}
 		{D7B02816-2DB6-45F7-A08E-9B9D2331F4E9} = {7B137399-7948-43A9-9610-326B259965D5}
 		{135322D0-0240-496C-B745-D150DA122B87} = {7B137399-7948-43A9-9610-326B259965D5}
+		{0FD41DF7-913A-4F5E-807C-54183DA239C1} = {87A7AE31-5FF5-40F4-8556-2A0E86A234A0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5AF2A474-D065-4909-A76F-28DC8161E9B7}
