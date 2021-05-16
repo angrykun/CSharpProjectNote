@@ -141,7 +141,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCoreMasterSlave", "EfCore
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CoreConsul", "CoreConsul", "{87A7AE31-5FF5-40F4-8556-2A0E86A234A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsulDemo", "ConsulDemo\ConsulDemo.csproj", "{0FD41DF7-913A-4F5E-807C-54183DA239C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsulDemo", "ConsulDemo\ConsulDemo.csproj", "{0FD41DF7-913A-4F5E-807C-54183DA239C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CoreOcelot", "CoreOcelot", "{02B478D7-447F-434E-9BEE-126140A3D72B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
