@@ -22,7 +22,8 @@ namespace AuthorizationServer
                 .AddDeveloperSigningCredential() //生产环境需更改为 AddSigningCredential()方法
                 .AddTestUsers(InMemoryConfiguration.GetUsers().ToList())
                 .AddInMemoryClients(InMemoryConfiguration.GetClients().ToList())
-                .AddInMemoryApiResources(InMemoryConfiguration.GetApiResources());
+                .AddInMemoryApiResources(InMemoryConfiguration.GetApiResources())
+                .AddInMemoryApiScopes(InMemoryConfiguration.GetApiScopes().ToList());
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

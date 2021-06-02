@@ -1,0 +1,13 @@
+{
+    "profiles": {
+        "ApiService01": {
+            "commandName": "Project",
+            "launchBrowser": false,
+            "launchUrl": "weatherforecast",
+            "applicationUrl": "http://localhost:5010",
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        }
+    }
+}

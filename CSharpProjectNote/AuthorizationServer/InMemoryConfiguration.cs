@@ -17,7 +17,10 @@ namespace AuthorizationServer
         {
             return new[]
             {
-              new ApiResource("clientservice","CAS Client Server"),
+              new ApiResource("clientservice","CAS Client Server")
+              {
+                  Scopes = new List<string>(){ "clientservice" }
+              },
               new ApiResource("productservice","CAS Product Server"),
               new ApiResource("agentservice","CAS AgentServer")
             };
@@ -44,7 +47,7 @@ namespace AuthorizationServer
                     ClientId = "product.api.service",
                     ClientSecrets = new[] {new Secret("productsecret".Sha256())},
                     AllowedGrantTypes = GrantTypes.ResourceOwnerPasswordAndClientCredentials,
-                    AllowedScopes = new[] { "clientserver","productserver" },
+                    AllowedScopes = new[] { "productserver" },
                     AllowOfflineAccess = true
                 },
                 new Client
@@ -83,6 +86,15 @@ namespace AuthorizationServer
                     Username = "leo@google.com",
                     Password = "leopassword"
                 }
+            };
+        }
+
+        public static IEnumerable<ApiScope> GetApiScopes()
+        {
+            return new[]
+            {
+                new ApiScope("clientservice")
+
             };
         }
 
