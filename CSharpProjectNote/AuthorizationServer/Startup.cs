@@ -16,6 +16,8 @@ namespace AuthorizationServer
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            // get token way
+            // post  x-www-form-urlencoded
             services.AddIdentityServer()
                 .AddDeveloperSigningCredential() //生产环境需更改为 AddSigningCredential()方法
                 .AddTestUsers(InMemoryConfiguration.GetUsers().ToList())
