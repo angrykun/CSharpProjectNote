@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option csharp_namespace="GrpcServiceDemo";
+
+ 
+
+package LuCat;
+
+//服务定义
+service  LuCat{
+	//定义吸猫方法
+	rpc SuckingCat(SuckingCatRequest) returns (SuckingCatResult);
+}
+
+message SuckingCatRequest{
+	string name=1;
+}
+
+message SuckingCatResult{
+	string message=1;
+}
+
