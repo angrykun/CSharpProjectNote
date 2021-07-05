@@ -1,0 +1,42 @@
+syntax="proto3";
+
+
+option csharp_namespace = "GrpcServiceDemo";//命名空间
+
+package create_order;
+ 
+//import "Protos/greet.proto";
+
+//定义在消息中的字段都会被分配一个唯一的标量
+//标量用于标识定义在二进制消息格式中的属性，标量一旦被定义，就不允许在使用过程中再次被修改
+//标量的值在1~15范围内
+message SearchRequest{
+	   string query=1;
+	   int32 page_number=2;
+	   int32 result_per_page=3;
+}
+
+
+message SearchResponse{
+	string name=1;
+	//集合
+	repeated Items items=2;
+	// HelloRequest request=3;
+}
+
+message Items{
+	int32 productId=1;
+	string productName=2;
+	double unitPrice=3;
+	double discount=4;
+	int32 units=5;
+	string pictureUrl=6;
+	Color color=7;
+}
+
+//枚举值第一个必须为0
+enum   Color{
+	BLACK=0;
+	WHITE=1;  
+	BLUE=2; 
+}
