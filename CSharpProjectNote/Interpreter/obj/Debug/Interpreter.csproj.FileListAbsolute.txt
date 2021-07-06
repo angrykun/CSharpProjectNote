@@ -1,5 +1,6 @@
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Interpreter\bin\Debug\Interpreter.exe.config
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Interpreter\bin\Debug\Interpreter.exe
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Interpreter\bin\Debug\Interpreter.pdb
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Interpreter\obj\Debug\Interpreter.csproj.CoreCompileInputs.cache
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Interpreter\obj\Debug\Interpreter.exe
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Interpreter\obj\Debug\Interpreter.pdb

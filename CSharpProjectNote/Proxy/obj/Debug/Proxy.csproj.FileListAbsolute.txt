@@ -4,12 +4,9 @@ E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Proxy\bin\Debug\Pro
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Proxy\obj\Debug\Proxy.exe
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Proxy\obj\Debug\Proxy.pdb
-<<<<<<< HEAD
-=======
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Proxy\bin\Debug\Proxy.exe.config
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Proxy\bin\Debug\Proxy.exe
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Proxy\bin\Debug\Proxy.pdb
-D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Proxy\obj\Debug\Proxy.exe
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Proxy\obj\Debug\Proxy.pdb
->>>>>>> branch
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache

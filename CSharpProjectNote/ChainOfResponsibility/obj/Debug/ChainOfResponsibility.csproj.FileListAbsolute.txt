@@ -4,12 +4,9 @@ E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\ChainOfResponsibili
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.csprojResolveAssemblyReference.cache
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.exe
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.pdb
-<<<<<<< HEAD
-=======
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe.config
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.pdb
-D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.csprojResolveAssemblyReference.cache
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.exe
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.pdb
->>>>>>> branch
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.csproj.CoreCompileInputs.cache

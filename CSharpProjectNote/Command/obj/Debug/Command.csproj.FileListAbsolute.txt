@@ -7,6 +7,6 @@ E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\obj\Debug\C
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\bin\Debug\Command.exe.config
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\bin\Debug\Command.exe
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\bin\Debug\Command.pdb
-D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\obj\Debug\Command.exe
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Command\obj\Debug\Command.pdb

@@ -10,6 +10,8 @@ E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\E
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\obj\Debug\EF.Data.csprojResolveAssemblyReference.cache
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\obj\Debug\EF.Data.dll
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\obj\Debug\EF.Data.pdb
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\EF.Data.dll.config
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\EF.Data.dll
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\EF.Data.pdb
@@ -19,13 +21,10 @@ D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\EntityFramew
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\EF.Core.pdb
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\EntityFramework.xml
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\EntityFramework.SqlServer.xml
-D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\obj\Debug\EF.Data.csprojResolveAssemblyReference.cache
-D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\obj\Debug\EF.Data.dll
-D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\obj\Debug\EF.Data.pdb
-E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\zh-Hans\EntityFramework.resources.dll
-E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
-<<<<<<< HEAD
-=======
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\zh-Hans\EntityFramework.resources.dll
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
->>>>>>> branch
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\obj\Debug\EF.Data.csproj.AssemblyReference.cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\obj\Debug\EF.Data.csproj.CoreCompileInputs.cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\obj\Debug\EF.Data.csproj.CopyComplete
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\obj\Debug\EF.Data.dll
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\EF.Data\obj\Debug\EF.Data.pdb

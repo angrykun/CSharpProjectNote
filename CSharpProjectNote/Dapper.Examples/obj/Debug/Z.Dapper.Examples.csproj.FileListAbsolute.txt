@@ -104,8 +104,6 @@ D:\Software\dapper-tutorial-1.0.4\src\Z.Dapper.Examples\obj\Debug\Z.Dapper.Examp
 D:\Software\dapper-tutorial-1.0.4\src\Z.Dapper.Examples\obj\Debug\Z.Dapper.Examples.exe
 D:\Software\dapper-tutorial-1.0.4\src\Z.Dapper.Examples\obj\Debug\Z.Dapper.Examples.pdb
 D:\Software\dapper-tutorial-1.0.4\src\Z.Dapper.Examples\bin\Debug\MySql.Data.dll
-<<<<<<< HEAD
-=======
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Dapper.Examples\bin\Debug\Z.Dapper.Examples.exe.config
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Dapper.Examples\bin\Debug\Z.Dapper.Examples.exe
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Dapper.Examples\bin\Debug\Z.Dapper.Examples.pdb
@@ -277,7 +275,6 @@ D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Dapper.Examples\bin\Debug\Syst
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Dapper.Examples\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Dapper.Examples\bin\Debug\zh-Hans\EntityFramework.resources.dll
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Dapper.Examples\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
-D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Dapper.Examples\obj\Debug\Z.Dapper.Examples.csprojResolveAssemblyReference.cache
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Dapper.Examples\obj\Debug\Z.Dapper.Examples.API.DapperContrib.DataAnnotations.Computed.resources
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Dapper.Examples\obj\Debug\Z.Dapper.Examples.API.DapperContrib.DataAnnotations.ExplicitKey.resources
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Dapper.Examples\obj\Debug\Z.Dapper.Examples.API.DapperContrib.DataAnnotations.Key.resources
@@ -319,7 +316,8 @@ D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Dapper.Examples\obj\Debug\Z.Da
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Dapper.Examples\obj\Debug\Z.Dapper.Examples.Performance_Comparison.Dapper_vs_EF6.Update.resources
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Dapper.Examples\obj\Debug\Z.Dapper.Examples.API.Dapper.Methods.StartupForm.resources
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Dapper.Examples\obj\Debug\Z.Dapper.Examples.Properties.Resources.resources
-D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Dapper.Examples\obj\Debug\Z.Dapper.Examples.csproj.GenerateResource.Cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Dapper.Examples\obj\Debug\Z.Dapper.Examples.csproj.GenerateResource.cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Dapper.Examples\obj\Debug\Z.Dapper.Examples.csproj.CoreCompileInputs.cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Dapper.Examples\obj\Debug\Z.Dapper.Examples.csproj.CopyComplete
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Dapper.Examples\obj\Debug\Z.Dapper.Examples.exe
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Dapper.Examples\obj\Debug\Z.Dapper.Examples.pdb
->>>>>>> branch

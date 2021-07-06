@@ -4,3 +4,9 @@ E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Mediator\bin\Debug\
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Mediator\obj\Debug\Mediator.exe
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Mediator\obj\Debug\Mediator.pdb
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Mediator\bin\Debug\Mediator.exe.config
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Mediator\bin\Debug\Mediator.exe
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Mediator\bin\Debug\Mediator.pdb
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Mediator\obj\Debug\Mediator.exe
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Mediator\obj\Debug\Mediator.pdb

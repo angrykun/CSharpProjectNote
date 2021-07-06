@@ -4,12 +4,9 @@ E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Decorator\bin\Debug
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Decorator\obj\Debug\Decorator.exe
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Decorator\obj\Debug\Decorator.pdb
-<<<<<<< HEAD
-=======
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Decorator\bin\Debug\Decorator.exe.config
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Decorator\bin\Debug\Decorator.exe
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Decorator\bin\Debug\Decorator.pdb
-D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Decorator\obj\Debug\Decorator.exe
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Decorator\obj\Debug\Decorator.pdb
->>>>>>> branch

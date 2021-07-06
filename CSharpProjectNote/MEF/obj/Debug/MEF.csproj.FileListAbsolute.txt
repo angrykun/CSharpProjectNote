@@ -5,8 +5,9 @@ E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\obj\Debug\MEF.c
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\obj\Debug\MEF.exe
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\obj\Debug\MEF.pdb
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\bin\Debug\MEF.exe.config
-D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\obj\Debug\MEF.exe
-D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\obj\Debug\MEF.pdb
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\bin\Debug\MEF.exe
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\bin\Debug\MEF.pdb
-D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\obj\Debug\MEF.csprojResolveAssemblyReference.cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\obj\Debug\MEF.csproj.AssemblyReference.cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\obj\Debug\MEF.csproj.CoreCompileInputs.cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\obj\Debug\MEF.exe
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\MEF\obj\Debug\MEF.pdb

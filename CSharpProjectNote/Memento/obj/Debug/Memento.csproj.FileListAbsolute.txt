@@ -4,3 +4,9 @@ E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Memento\bin\Debug\M
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Memento\obj\Debug\Memento.csprojResolveAssemblyReference.cache
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Memento\obj\Debug\Memento.exe
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Memento\obj\Debug\Memento.pdb
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Memento\bin\Debug\Memento.exe.config
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Memento\bin\Debug\Memento.exe
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Memento\bin\Debug\Memento.pdb
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Memento\obj\Debug\Memento.exe
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Memento\obj\Debug\Memento.pdb

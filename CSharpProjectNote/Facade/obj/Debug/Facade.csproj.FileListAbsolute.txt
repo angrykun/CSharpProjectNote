@@ -4,12 +4,9 @@ E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Facade\bin\Debug\Fa
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Facade\obj\Debug\Facade.exe
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Facade\obj\Debug\Facade.pdb
 E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
-<<<<<<< HEAD
-=======
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Facade\bin\Debug\Facade.exe.config
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Facade\bin\Debug\Facade.exe
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Facade\bin\Debug\Facade.pdb
-D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Facade\obj\Debug\Facade.exe
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Facade\obj\Debug\Facade.pdb
->>>>>>> branch
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache

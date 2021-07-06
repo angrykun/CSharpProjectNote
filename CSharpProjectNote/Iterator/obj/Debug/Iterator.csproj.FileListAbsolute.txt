@@ -7,6 +7,6 @@ E:\AMyProject\ProjectGit\CSharpProjectNote\CSharpProjectNote\Iterator\obj\Debug\
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Iterator\bin\Debug\Iterator.exe.config
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Iterator\bin\Debug\Iterator.exe
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Iterator\bin\Debug\Iterator.pdb
-D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Iterator\obj\Debug\Iterator.exe
 D:\ProjectGit\CSharpProjectNote\CSharpProjectNote\Iterator\obj\Debug\Iterator.pdb
