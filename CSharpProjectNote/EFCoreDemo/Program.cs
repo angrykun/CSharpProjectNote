@@ -1,5 +1,9 @@
 using System;
+using System.Linq;
+using EFCoreDemo.Model;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using Newtonsoft.Json;
 
 namespace EFCoreDemo
 {
@@ -8,8 +12,29 @@ namespace EFCoreDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            var service = new ServiceCollection();
-            service.AddDbContext<EFDbContext>(); 
+            using var context = new EFDbContext();
+
+            var query = context.Orders.FirstOrDefault(x => x.Name == "笔记本电脑");
+            Console.WriteLine($"query={JsonConvert.SerializeObject(query)}");
+            Console.WriteLine("query--end");
+            Console.Read();
+            var order = new Order
+            {
+                Name = "笔记本电脑",
+                Address = new Address
+                {
+                    Province = "上海市",
+                    City = "上海市",
+                    Street = "古北路666号2202"
+                },
+                Description = "这是一款很好的笔记本电脑"
+            };
+            var orderEntity = context.Orders.Add(order).Entity;
+            Console.WriteLine($"orderEntity:{ JsonConvert.SerializeObject(orderEntity)}");
+            var result = context.SaveChanges();
+            Console.WriteLine($"result:{result}");
+
+            Console.Read();
         }
     }
 }
