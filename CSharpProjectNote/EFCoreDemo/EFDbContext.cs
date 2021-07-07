@@ -14,10 +14,12 @@ namespace EFCoreDemo
 
         public DbSet<Post> Posts { get; set; }
 
+        public DbSet<Distributor> Distributors { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder
-                //.LogTo(Console.WriteLine)
+                .LogTo(Console.WriteLine)
                 //.UseQueryTrackingBehavior(QueryTrackingBehavior.NoTrackingWithIdentityResolution )
                 //.EnableSensitiveDataLogging() //启用敏感数据日志记录
                 .UseSqlServer(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=demo;Integrated Security=True");
@@ -28,6 +30,7 @@ namespace EFCoreDemo
             modelBuilder.Entity<Order>().HasKey(x => x.Id);
             //配置值对象
             modelBuilder.Entity<Order>().OwnsOne(x => x.Address);
+            modelBuilder.Entity<Order>().OwnsOne(x => x.ShippingAddress);
 
 
             #region 表拆分，允许将两个或多个实体映射到单行
@@ -52,6 +55,15 @@ namespace EFCoreDemo
             modelBuilder.HasSequence<int>("OrderNumbers", "shared")
                 .StartsAt(1000)
                 .IncrementsBy(5);
+
+
+            modelBuilder.Entity<Distributor>().OwnsMany(p => p.ShippingAddresses, a =>
+            {
+                a.WithOwner().HasForeignKey("OwnerId");
+                a.Property<int>("Id");
+                a.HasKey("Id");
+            });
+
         }
     }
 }

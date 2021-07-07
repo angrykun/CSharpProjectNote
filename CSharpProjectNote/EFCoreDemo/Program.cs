@@ -13,7 +13,9 @@ namespace EFCoreDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            AddBlog();
+            //AddBlog();
+            //AddDistributor();
+            QueryDistributor();
             Console.Read();
         }
 
@@ -108,6 +110,83 @@ namespace EFCoreDemo
             var post = context.Posts.FirstOrDefault();
             Console.WriteLine("success");
             Console.Read();
+        }
+
+        static void QueryDistributor()
+        {
+            var context = new EFDbContext();
+            var queryEntities = context.Distributors;
+
+            Console.WriteLine($"queryEntity Distributor:{JsonConvert.SerializeObject(queryEntities)}");
+            Console.Read();
+        }
+        static void AddDistributor()
+        {
+            var context = new EFDbContext();
+            var distributor = new Distributor
+            {
+                ShippingAddresses = new List<Address>()
+                {
+                    new Address()
+                    {
+                        Province = "上海市",
+                        City = "上海市",
+                        Street = "长宁区古北路66号"
+                    },
+                    new Address()
+                    {
+                        Province = "江苏省",
+                        City = "宿迁市",
+                        Street = "宿豫区江山大道900弄1202"
+                    },
+                    new Address()
+                    {
+                        Province = "江苏省",
+                        City = "南京市",
+                        Street = "秦淮区玄武湖大道1289弄1902"
+                    },
+                }
+            };
+            var distributor2 = new Distributor
+            {
+                ShippingAddresses = new List<Address>()
+                {
+                    new Address()
+                    {
+                        Province = "上海市2",
+                        City = "上海市2",
+                        Street = "长宁区古北路66号"
+                    },
+                    new Address()
+                    {
+                        Province = "江苏省2",
+                        City = "宿迁市2",
+                        Street = "宿豫区江山大道900弄1202"
+                    },
+                    new Address()
+                    {
+                        Province = "江苏省2",
+                        City = "南京市2",
+                        Street = "秦淮区玄武湖大道1289弄1902"
+                    },
+                }
+            };
+
+            context.Distributors.Add(distributor);
+            context.Distributors.Add(distributor2);
+
+            context.SaveChanges();
+
+
+
+            var queryEntity = context.Distributors.FirstOrDefault();
+
+            Console.WriteLine($"queryEntity Distributor:{JsonConvert.SerializeObject(queryEntity)}");
+            Console.Read();
+
+
+
+
         }
     }
 }
