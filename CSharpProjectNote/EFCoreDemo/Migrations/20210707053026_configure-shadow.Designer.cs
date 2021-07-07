@@ -4,24 +4,22 @@ using EFCoreDemo;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace EFCoreDemo.Migrations
 {
     [DbContext(typeof(EFDbContext))]
-    partial class EFDbContextModelSnapshot : ModelSnapshot
+    [Migration("20210707053026_configure-shadow")]
+    partial class configureshadow
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("ProductVersion", "5.0.7")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-            modelBuilder.HasSequence<int>("OrderNumbers", "shared")
-                .StartsAt(1000L)
-                .IncrementsBy(5);
 
             modelBuilder.Entity("EFCoreDemo.Model.Blog", b =>
                 {
@@ -79,9 +77,6 @@ namespace EFCoreDemo.Migrations
 
                     b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("OrderNumbers")
-                        .HasColumnType("int");
 
                     b.Property<int>("OrderStatus")
                         .ValueGeneratedOnUpdateSometimes()

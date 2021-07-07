@@ -10,9 +10,17 @@ namespace EFCoreDemo
     {
         public DbSet<Order> Orders { get; set; }
 
+        public DbSet<Blog> Blogs { get; set; }
+
+        public DbSet<Post> Posts { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=demo;Integrated Security=True");
+            optionsBuilder
+                //.LogTo(Console.WriteLine)
+                //.UseQueryTrackingBehavior(QueryTrackingBehavior.NoTrackingWithIdentityResolution )
+                //.EnableSensitiveDataLogging() //启用敏感数据日志记录
+                .UseSqlServer(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=demo;Integrated Security=True");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -37,6 +45,13 @@ namespace EFCoreDemo
             });
             #endregion
 
+            //配置阴影属性
+            modelBuilder.Entity<Blog>().Property<DateTime>("LastUpdated");
+
+            //配置序列设置
+            modelBuilder.HasSequence<int>("OrderNumbers", "shared")
+                .StartsAt(1000)
+                .IncrementsBy(5);
         }
     }
 }
