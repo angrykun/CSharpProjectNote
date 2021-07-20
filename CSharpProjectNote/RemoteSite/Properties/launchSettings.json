@@ -1,0 +1,22 @@
+{
+    "$schema": "http://json.schemastore.org/launchsettings.json",
+    "iisSettings": {
+        "windowsAuthentication": false,
+        "anonymousAuthentication": true,
+        "iisExpress": {
+            "applicationUrl": "http://localhost:54497",
+            "sslPort": 0
+        }
+    },
+    "profiles": {
+        "RemoteSite": {
+            "commandName": "Project",
+            "launchBrowser": false,
+            "launchUrl": "OrderService",
+            "applicationUrl": "http://localhost:5002",
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        }
+    }
+}
